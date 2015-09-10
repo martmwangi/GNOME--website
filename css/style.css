@@ -1,0 +1,91 @@
+body{
+background-color: black;
+
+}
+#container{
+/*width: 80%;*/
+border: 1px solid white;
+margin-left: 20%;
+margin-right: 20%;
+background-color: white;
+}
+/*Styling for all the content in the header*/
+#header{
+    color: grey;
+    background-color: gray;
+        border: 1px solid black;
+
+}
+h1{
+font-size: 40px;
+color: yellow;
+}
+/*.trouble{
+color: gainsboro;
+
+}
+.online{
+color: white;
+}*/
+
+/*Styling for the first section */
+#sec1{
+    background-image: url(/assets/big_img.jpg);
+    height: 270px;
+
+}
+.simp{
+font-size: 30px;
+}
+.email{
+font-size: 10px;
+}
+
+hr{
+align-content: center;
+width: 50%;
+
+}
+
+/*Styling for the second section*/
+#sec2{
+color: gray;
+background-color: white;
+border: 1px solid black;
+}
+h2{
+font-size: 30px;
+    color: black;
+}
+a{
+display: block;
+width: 60px;
+color: aliceblue;
+background-color: dimgrey;
+text-decoration: none;
+padding: 15px;
+border-radius: 20px;
+
+}
+
+/*Styling for the third section*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
