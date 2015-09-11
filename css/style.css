@@ -69,6 +69,55 @@ border-radius: 20px;
 }
 
 /*Styling for the third section*/
+#sec3{
+border: 1px solid black;
+
+}
+
+
+#editable{
+display: inline-block;
+
+}
+#versatile{
+display: inline-block;
+}
+#professional{
+display: inline-block;
+}
+td{
+padding: 40px;
+}
+
+
+
+/*Styling for the 4th Section*/
+
+#sec4{
+border: 1px solid black;
+
+}
+#lorem{
+display: inline-flex;
+clear: both;
+
+}
+
+.img{
+padding-right: 1px;
+float: right;
+display: inline-block;
+}
+
+#lorem{
+display:inline-block;
+
+}
+
+/*Styling for section 6*/
+
+
+
 
 
 
