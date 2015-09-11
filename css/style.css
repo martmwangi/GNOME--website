@@ -14,10 +14,12 @@ background-color: rgb(243,242,237);
     color: grey;
     background-color: rgb(52,53,57);
         border: 1px solid black;
+    padding-bottom: 10px;
 
 }
 h1{
-font-size: 40px;
+font-size: 60px;
+font-family: "Times New Roman", Times, serif;
 color: rgb(242,203,50);
 }
 /*.trouble{
@@ -35,7 +37,7 @@ color: white;
 
 }
 .simp{
-font-size: 30px;
+font-size: 25px;
 }
 .email{
 font-size: 10px;
@@ -51,27 +53,39 @@ width: 50%;
 #sec2{
 color: gray;
 background-color: white;
-border: 1px solid black;
+/*border: 1px solid black;*/
+margin-top: 20px;
+height: 290px;
 }
-h2{
+h3{
 font-size: 30px;
     color: black;
+    padding-top: 20px;
 }
 a{
 display: block;
 width: 60px;
 color: aliceblue;
-background-color: dimgrey;
+background-color: rgb(52,53,57);
 text-decoration: none;
 padding: 15px;
-border-radius: 20px;
+border-radius: 40px;
+margin-left: 20px;
+margin-bottom: 5px;
 
 }
+.parg{
+margin: 20px;
+}
+h3{
+margin-left: 20px;
+}
+
 
 /*Styling for the third section*/
 #sec3{
-border: 1px solid black;
-
+/*border: 1px solid black;*/
+margin-top: 20px;
 }
 
 
@@ -88,13 +102,19 @@ display: inline-block;
 td{
 padding: 40px;
 }
+table{
+background-color: rgb(255,255,255);
+width: auto;
+}
 
 
 
 /*Styling for the 4th Section*/
 
 #sec4{
-border: 1px solid black;
+/*border: 1px solid black;*/
+margin-top: 20px;
+margin-right: 1px;
 
 }
 #lorem{
@@ -104,7 +124,8 @@ clear: both;
 }
 /*Styling for section 5*/
 #sec5{
-border: 1px solid black;
+/*border: 1px solid black;*/
+margin-top: 20px;
 }
 
 .img{
@@ -121,25 +142,37 @@ display:inline-block;
 /*Styling for section 6*/
 
 #sec6{
-border: 1px solid black;
-background-color: limegreen;
+/*border: 1px solid black;*/
+background-color: rgb(122,255,76);
 color: white;
 align-content: center;
+margin-top: 20px;
+height: 100px;
 }
 /*Styling for section 7*/
 
 #sec7{
-border: 1px solid black;
-
-
+/*border: 1px solid black;*/
+margin-top: 20px;
+background-color: white;
+}
+h4{
+margin-left: 20px;
+padding-top: 20px;
+}
+.doolor{
+margin: 20px;
+color:rgb(190,190,190);
 }
 
 
 /*Styling for the footer*/
 footer{
-border: 1px solid black;
-background-color: dimgray;
-color: yellow;
+margin-top: 20px;
+/*border: 1px solid black;*/
+background-color: rgb(52,53,57);
+color: rgb(147,128,52);
+height: 100px;
 }
 
 
