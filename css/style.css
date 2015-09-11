@@ -102,6 +102,10 @@ display: inline-flex;
 clear: both;
 
 }
+/*Styling for section 5*/
+#sec5{
+border: 1px solid black;
+}
 
 .img{
 padding-right: 1px;
@@ -116,7 +120,27 @@ display:inline-block;
 
 /*Styling for section 6*/
 
+#sec6{
+border: 1px solid black;
+background-color: limegreen;
+color: white;
+align-content: center;
+}
+/*Styling for section 7*/
 
+#sec7{
+border: 1px solid black;
+
+
+}
+
+
+/*Styling for the footer*/
+footer{
+border: 1px solid black;
+background-color: dimgray;
+color: yellow;
+}
 
 
 
