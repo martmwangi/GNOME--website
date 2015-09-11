@@ -7,18 +7,18 @@ background-color: black;
 border: 1px solid white;
 margin-left: 20%;
 margin-right: 20%;
-background-color: white;
+background-color: rgb(243,242,237);
 }
 /*Styling for all the content in the header*/
 #header{
     color: grey;
-    background-color: gray;
+    background-color: rgb(52,53,57);
         border: 1px solid black;
 
 }
 h1{
 font-size: 40px;
-color: yellow;
+color: rgb(242,203,50);
 }
 /*.trouble{
 color: gainsboro;
