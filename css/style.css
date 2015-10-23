@@ -32,7 +32,8 @@ color: white;
 
 /*Styling for the first section */
 #sec1{
-    background-image: url(/assets/big_img.jpg);
+    background-image:url(../assets/big_img.jpg);
+    background-size: contain;
     height: 270px;
 
 }
@@ -183,24 +184,3 @@ background-color: rgb(52,53,57);
 color: rgb(147,128,52);
 height: 100px;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
